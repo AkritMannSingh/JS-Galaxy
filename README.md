@@ -2,15 +2,15 @@
 
 Welcome to JS-Galaxy - your complete journey through the vast universe of JavaScript! This repository is a meticulously organized collection that takes you from the very basics of JavaScript to the most advanced concepts and patterns.
 
-### What You'll Explore:
+## What You'll Explore:
 
-` · ` 🌟 Fundamentals: Variables, data types, operators, functions
-` · ` 🪐 Core Concepts: Scope, closures, prototypes, async programming
-` · ` 🛸 Advanced Topics: Design patterns, performance optimization, memory management
-` · ` ⚡ Modern JS: ES6+ features, modules, modern syntax
-` · ` 🚀 Beyond Basics: Frameworks, tooling, best practices, and real-world applications
+#### · 🌟 Fundamentals: Variables, data types, operators, functions
+#### · 🪐 Core Concepts: Scope, closures, prototypes, async programming
+#### · 🛸 Advanced Topics: Design patterns, performance optimization, memory management
+#### · ⚡ Modern JS: ES6+ features, modules, modern syntax
+####  · 🚀 Beyond Basics: Frameworks, tooling, best practices, and real-world applications
 
-### Repository Structure:
+## Repository Structure:
 
 ```
 JS-Galaxy/
@@ -25,7 +25,7 @@ JS-Galaxy/
 └── 09-📚-Resources/
 ```
 
-### Key Features:
+## Key Features:
 
 #### · ✅ Beginner Friendly: Step-by-step explanations with simple examples
 #### · ✅ Progressive Learning: Each topic builds on previous knowledge
@@ -34,7 +34,7 @@ JS-Galaxy/
 #### · ✅ Best Practices: Industry standards and modern approaches
 #### · ✅ Interactive Exercises: Challenges to test your understanding
 
-### Perfect For:
+## Perfect For:
 
 #### · 🔰 Beginners starting their JavaScript journey
 #### · 📈 Intermediate developers looking to deepen their knowledge
