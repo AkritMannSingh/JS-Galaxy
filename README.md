@@ -2,7 +2,7 @@
 
 Welcome to JS-Galaxy - your complete journey through the vast universe of JavaScript! This repository is a meticulously organized collection that takes you from the very basics of JavaScript to the most advanced concepts and patterns.
 
-## What You'll Explore:
+## What We'll Explore:
 
 #### · 🌟 Fundamentals: Variables, data types, operators, functions
 #### · 🪐 Core Concepts: Scope, closures, prototypes, async programming
