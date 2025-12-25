@@ -7,11 +7,12 @@ alert('Welcome in my first webpage of JS.')
       
       var Istrue = confirm("Please sure that Mobile No. must be correct!")
       var a = prompt("Enter your mobile Number")
-      if(a.length === 10 && Istrue && !/[a-zA-Z]/.test(mobile)){
+     if( a.length === 10 && Istrue && /^\d{10}$/.test("0123456789")){
         alert("Right Mobile No.") 
         console.log("You are enter in this webpage")
         console.log("Your Mobile No. is " + a)
       }
+    
       
       else{
         alert("Wrong Mobile No.\nTry Again.")
