@@ -5,7 +5,7 @@ alert('Welcome in my first webpage of JS.')
       
       console.log("Looking like a wow")
       
-      var Istrue = confirm("Please sure that Mibile No. must be correct!")
+      var Istrue = confirm("Please sure that Mobile No. must be correct!")
       var a = prompt("Enter your mobile Number")
       if(a.length === 10 && Istrue){
         alert("Right Mobile No.") 
