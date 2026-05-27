@@ -11,3 +11,5 @@ let a = prompt(`Welcome ${name} How are you!`);
 
 alert('Nice to meet you');
 
+console.log("Hello! Today we learn something new?");
+
